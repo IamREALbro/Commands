@@ -1,0 +1,5 @@
+git clone <repo URL> : clone the repo to locally.
+git pull : pull changes to local git repo
+git status : display the state of the working directory and the staging area
+git add <file name> : add files to staging
+git 
